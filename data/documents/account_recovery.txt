@@ -1,0 +1,7 @@
+﻿Account Recovery
+
+Users who cannot access their account can recover their credentials through the account recovery process.
+
+To recover your account, verify your registered email address and follow the instructions sent to your inbox.
+
+For security reasons, never share your password or recovery link with another person.
